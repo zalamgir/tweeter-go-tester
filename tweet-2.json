@@ -1,0 +1,17 @@
+{
+  "tweets":
+  [
+    {
+	"handle": "ACT I",
+	"content": "" 
+    },
+    {
+        "handle":"KING HENRY IV", 
+	"content": "A"
+    },	
+    {
+        "handle": "John", 
+	"content": "B"
+    }
+  ]
+}
