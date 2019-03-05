@@ -1,6 +1,5 @@
 {
   "tweets":
-  [
     {
 	"handle": "ACT I",
 	"content": "" 
@@ -13,5 +12,4 @@
         "handle": "John", 
 	"content": "B"
     }
-  ]
 }
